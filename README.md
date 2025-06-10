@@ -1,4 +1,4 @@
-# InfluxdbSdk Java SDK 1.0.0
+# Unofficial InfluxDB Java SDK (v3 - test)
 
 Welcome to the InfluxdbSdk SDK documentation. This guide will help you get started with integrating and using the InfluxdbSdk SDK in your project.
 
